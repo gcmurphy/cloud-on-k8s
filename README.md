@@ -1,5 +1,5 @@
-
 [![Build Status](https://devops-ci.elastic.co/buildStatus/icon?job=cloud-on-k8s-e2e-tests&subject=E2E%20tests)](https://devops-ci.elastic.co/view/cloud-on-k8s/job/cloud-on-k8s-e2e-tests)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgcmurphy%2Fcloud-on-k8s.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgcmurphy%2Fcloud-on-k8s?ref=badge_shield)
 
 # Elastic Cloud on Kubernetes (ECK)
 
@@ -22,3 +22,7 @@ Supported versions:
 *  Elasticsearch: 6.8+, 7.1+
 
 Check the [Quickstart](https://www.elastic.co/guide/en/cloud-on-k8s/current/index.html) if you want to deploy you first cluster with ECK.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgcmurphy%2Fcloud-on-k8s.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgcmurphy%2Fcloud-on-k8s?ref=badge_large)
